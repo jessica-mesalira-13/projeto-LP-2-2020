@@ -1,1 +1,1 @@
-# projeto-LP-2-2020
+Projeto feito com Java Swing que gera valores aleatórios e os mostra na barra de progresso.
